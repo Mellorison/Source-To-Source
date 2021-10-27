@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  
+
+  <title>Nursing and Midwifery Council of Zambia | Home</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" media="all" />
+   <!--link href="assets/css/style.css" type="text/html"!-->
+
+  <!-- =======================================================
+  * Template Name: Flattern - v4.2.0
+  * Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body oncontextmenu="return false;">
+<script>
+ document.onkeydown = function(e) {
+  if(event.keyCode == 123) {
+     return false;
+  }
+  if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+     return false;
+  }
+  if(e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+     return false;
+  }
+  if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+     return false;
+  }
+  if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+     return false;
+  }
+}
+</script>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:gnc@nursing.org.zm">gnc@nursing.org.zm</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+260 211 221284</span></i>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center">
+        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/GeneralNursingCouncilofZambia/" target="blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-between">
+
+      <div class="logo">
+        <!--h1 class="text-light"><a href="index.html">Flattern</a></h1-->
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"><strong>Nursing and Midwifery Council of Zambia</strong></a>
+		
+      </div>
+
+     <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="active" href="index.php">Home</a></li>
+          <li class="dropdown"><a href="#"><span>About Us</span> <i class="bi bi-chevron-down"></i></a>
+			<ul>
+				<li class="dropdown"><a href="#"><span>NMCZ</span> <i class="bi bi-chevron-right"></i></a>
+					<ul>
+						<li><a href="#">History</a></li>
+						<li><a href="#">Mission and Mandate</a></li>
+						<li><a href="#">Strategic Objectives</a></li>
+					</ul>
+				<li class="dropdown"><a href="#"><span>Departments</span> <i class="bi bi-chevron-right"></i></a>
+					<ul>
+						<li><a href="Finance_Dept.php">Finance</a></li>
+						<li><a href="Administration_Dept.php">Administration</a></li>
+						<li><a href="Audit&Riskmgt.php">Internal Audit</a></li>
+						<li><a href="Education&Training.php">Education and Training</a></li>
+						<li><a href="Compliance&Regulation.php">Regulation and Compliance</a></li>
+						<li><a href="Legal.php">Legal</a></li>
+					</ul>
+				<li><a href="Board.php">Board Members</a></li>
+				<li><a href="management.php">Management</a></li>
+				<li><a href="committees.php">Committees</a></li>
+				<li><a href="FAQs.php">FAQs</a></li>
+				
+			</ul>
+          <li><a href="Approved Fees.php">Approved Fees</a></li>
+          <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="Services.php?id=2">Examinations</a></li>
+              <li><a href="Services.php?id=3">Accreditation of Training Programmes</a></li>
+              <li><a href="Services.php?id=1">Continuing Professional Development (CPDs)</a></li>
+              <li><a href="Services.php?id=5">Student Indexing</a></li>
+			  <li><a href="Services.php?id=4">Registration and Licensing</a></li>
+			  <li><a href="Services.php?id=6">Compliance and Professionalisms</a></li>
+            </ul>
+          </li>
+		  <li class="dropdown"><a href="#"><span>Media Center</span> <i class="bi bi-chevron-down"></i></a>
+			<ul>
+			    <li><a href="News.php">News</a></li>
+				<li><a href="#">Press Release</a></li>
+				<li><a href="Downloads.php">Downloads</a></li>
+				<li><a href="Downloads.php">Careers</a></li>
+			</ul>
+		  </li>
+		  <li class="dropdown"><a href="#"><span>Online Services</span> <i class="bi bi-chevron-down"></i></a>
+			<ul>
+			    <li><a href="https://portal.gnc.org.zm/"target="blank">Online Service Portal</a></li>
+          <li><a href="Analytics&Reporting.php"target="blank">Analytics & Reporting</a></li>		
+        	</ul>
+		  </li>
+		  
+          <li><a href="contact.php">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+      
+        <div class="carousel-item active">
+              
+                              <div class="carousel-item active">
+                                <div class="carousel-content animate__animated animate__fadeInUp">
+                                  <h2><span></span></h2>
+
+                              
+                                <video  controls autoplay loop muted class width="1280" height="720"> 
+            <source src= "assets/img/slide/slide-vid.webm" type="video/webm"> 
+                            </div>
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2>Welcome to <span>NMCZ</span></h2>
+              <h3></h3>
+              <div class="text-center"><a href="Single-News.php?id=1" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide 2 -->
+        <!--div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2></h2>
+              <h3></h3>
+              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div!-->
+
+        <!-- Slide 3 -->
+        <!--div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2></h2>
+              <h3></h3>
+              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div!-->
+	  
+	  <!-- Slide 4 -->
+        <!--div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2></h2>
+              <h3></h3>
+              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div!-->
+	  
+	  <!-- Slide 5 -->
+        <!--div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2></h2>
+              <h3> </h3>
+              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div!-->
+
+	 <!-- Slide 5 -->
+        <!--div class="carousel-item" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-container">
+            <div class="carousel-content animate__animated animate__fadeInUp">
+              <h2></h2>
+              <h3></h3>
+              <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
+            </div>
+          </div>
+        </div>
+		
+      </div!-->
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <!--span class="carousel-control-prev-icon bx bx-left-arrow" aria-hidden="true"></span!-->
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <!--span class="carousel-control-next-icon bx bx-right-arrow" aria-hidden="true"></span!-->
+      </a>
+
+      <ol class="hidden-xs" id="hero-carousel-indicators"></ol>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Cta Section ======= -->
+    <section id="cta" class="cta">
+      <div class="container" height="1px">
+
+        <div class="row">
+          <div class="col-lg-12 text-center text-lg-left">
+            <marquee><h3> <a href="Single-News.php?id=1">Results for the <span>2021 May Licensure Exams</span> are out!</a></h3> </marquee>
+            <p></p>
+          </div>
+          <!--div class="col-lg-3 cta-btn-container text-center">
+            <marquee direction="down" width="100%" scrollamount="1"><a class="cta-btn align-middle" href="Single-News.php?id=1">Read More</a></marquee>
+          </div!-->
+        </div>
+
+      </div>
+    </section><!-- End Cta Section -->
+
+    <style type="text/css">
+    #warning-message{ 
+      display: none; 
+	}
+    @media only screen and (orientation:portrait){
+        #wrapper { 
+          display:none; 
+      	}
+        #warning-message { 
+          display:block; 
+      	}
+    }
+    @media only screen and (orientation:landscape){
+        #warning-message{
+          display:none; 
+      }
+    }
+</style>
+
+....
+
+<div id="wrapper">
+    <!-- your html for your website -->
+
+	
+	<!-- ======= About Us Section ======= -->
+    <section id="about-us" class="about-us">
+      <div class="container">
+		<div class="section-title" data-aos="fade-up">
+          <h1><b>MESSAGE FROM THE REGISTRAR/CEO</b></h1>
+        </div>
+        <!--div class="row no-gutters">
+        <div class="circular_image">
+  <img src="assets/img/News/about.png"/!-->
+</div>
+
+<style>
+  p{
+  /*background-color: #fff;*/
+  margin: 0 15%;
+  font-family: sans-serif;
+  text-align:justify;
+}
+</style>
+<div class="container">
+<img class="circular_image" 
+src="assets/img/News/about.png"
+ data-aos="fade-right"/>
+              </div>
+             
+              <p class="description"></p>
+            </div>
+             <!--br>
+              <br/!-->
+            <div class="row">
+          <div class="col-lg-4 col-md-6">
+           <!--div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch"!-->
+            <div class="roundCorner content d-flex flex-column justify-content-center">
+              <h3 data-aos="fade-up"></h3>
+              <p data-aos="fade-up">
+              “Dear Stakeholders, We all experienced an unprecedented 2020 due to the COVID-19 pandemic. Our priorities were focused on protecting the health and safety of our employees, ensuring that we continue to safely supply our system users with our services. These priorities remain in 2021 and demand our ongoing attention. We stand committed to sustainable development and our HRIS EDI sustainability program. We believe a sustainable mindset helps us make the right decisions for our system users, employees, suppliers, shareholders, and the communities in which we operate, as demonstrated by our actions during the COVID-19 pandemic.”
+</p><br></br>
+<p><b> - Dr. Aaron Banda - </b><p>
+              <!--div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up">
+                  <i class="bx bx-receipt"></i>
+                  <h4></h4>
+                  <p></p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4></h4>
+                  <p></p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bx bx-images"></i>
+                  <h4></h4>
+                  <p></p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bx bx-shield"></i>
+                  <h4></h4!-->
+                  <p></p>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <br></br>
+
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+	  <div class="section-title" data-aos="fade-up">
+          <h2><b>SERVICES</b></h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up">
+              <div class="icon"><i class="bi bi-briefcase"></i></div>
+              <h4 class="title"><a href="Services.php?id=2">Examinations</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="bi bi-card-checklist"></i></div>
+              <h4 class="title"><a href="Services.php?id=5">Student Indexing</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="bi bi-bar-chart"></i></div>
+              <h4 class="title"><a href="Services.php?id=4">Registration and Licensing</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="bi bi-binoculars"></i></div>
+              <h4 class="title"><a href="Services.php?id=6">Compliance and Professionalism</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><i class="bi bi-brightness-high"></i></div>
+              <h4 class="title"><a href="Services.php?id=3">Acreditation of Training Programmes</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+              <h4 class="title"><a href="Services.php?id=1">Continuing Professional Development(CPD)</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+		  
+		  
+		  <!--=================================================================================-->
+		  <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-unlock-fill"></i></div>
+              <h4 class="title"><a href="Services.php?id=6">Continuing Professional Development(CPD)</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-shield-shaded"></i></div>
+              <h4 class="title"><a href="Services.php?id=6">Continuing Professional Development(CPD)</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+		  
+		  <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="bi bi-geo-fill"></i></div>
+              <h4 class="title"><a href="Services.php?id=6">Continuing Professional Development(CPD)</a></h4>
+              <p class="description"></p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+
+
+     <!-- ======= Our Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2><b>STAKEHOLDERS</b></h2>
+        </div>
+        <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href ="https://www.moh.gov.zm/"target="blank"><img src="assets/img/clients/client-1.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://amref.org/"target="blank"><img src="assets/img/clients/client-2.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://chemonics.com/"target="blank"><img src="assets/img/clients/client-3.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://www.jhpiego.org/"target="blank"><img src="assets/img/clients/client-4.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://chepzambia.org/"target="blank"><img src="assets/img/clients/client-5.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://icap.columbia.edu/"target="blank"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://www.ipas.org/"target="blank"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://www.worldbank.org/en/home/"target="blank"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+			<div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://www.commonwealthnurses.org/thecommonwealthnurse/Documents/TheAfricanHealthProfessionsRegulatoryCollaborative.pdf/"target="blank"><img src="assets/img/clients/client-9.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+		  <div class="col-lg-3 col-md-4 col-6">
+            <div class="client-logo">
+              <a href="https://www.wvi.org/"target="blank"><img src="assets/img/clients/client-10.png" class="img-fluid" alt=""></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- End Our Clients Section -->
+  </main><!-- End #main -->
+
+  <!--iframe src="http://localhost:8080/superset/dashboard/world_health/?standalone=true"  style="position:relative" width="1200px" height="470px"></iframe!-->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h5>Nursing and Midwifery Council of Zambia</h5>
+            <p><h5><b>Head Office</b></h5>
+              Plot 171, Luanshya road<br>
+              Villa Elizabetha<br>
+              P.O Box 33521<br>
+              <strong>Phone:</strong> +260211221284<br> 
+			  <strong>Fax:</strong>+260211224893<br>
+              <strong>Email:</strong> <a href="mailto:gnc@nursing.org.zm?Subject = Mail from our site">gnc@nursing.org.zm</a><br>
+            </p>
+			<br/>
+			<p><h5>Northern Region</h5>
+			Plot No. 1, Chinyemba Street, Parklands,<br>
+			P.O Box 22977
+			Kitwe, Zambia.<br>
+			<strong>Phone</strong>+2602112236581
+			</p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Downloads.php">Downloads</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="Fees.php">Approved Fees</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contact.php">Contact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="FAQs.php">FAQs</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Linkages</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.moh.gov.zm/">Ministry of Health</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.cabinet.gov.zm/?page_id=5216">Management Development Division</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.hpcz.org.zm/">Health Professions Council of Zambia</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://zuno.org.zm/">Zambia Union of Nurses Organisation</a></li>
+              <!--li><i class="bx bx-chevron-right"></i> <a href="https://zuno.org.zm/">Graphic Design</a></li-->
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Join Our Newsletter</h4>
+            <p>Please Subscribe to our Newsletter for updates</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+			<!--h4>Contact Information</h4>
+			<h5>Head Office</h5>			
+			<tr>Phone:<td></td><td>+260 211 221 284</td>
+			</tr-->
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="me-md- text-md-center">
+		<div class="copyright">
+			<span><strong>Nursing and Midwifery Council of Zambia</strong></span> <br /><strong>Copyright &copy; 2021<br />   All Rights Reserved</strong>
+		</div>
+	  </div>
+	</div>
+  </footer><!-- End Footer --> 
+  </div>
+<div id="warning-message">
+    this website is only viewable in landscape mode
+</div>
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+  
+ <!--Start of Tawk.to Script-->
+<!--script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6070694cf7ce18270938c247/1f2rhmlpp';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<End of Tawk.to Script--!-->
+
+<!--iframe src="localhost:8088/superset/dashboard/5/?standalone=true"></iframe!-->
+
+<script src="//code.tidio.co/m43nhiz9hygbp99k0pjbvcpxombn6p6p.js" async></script>
+
+</body>
+
+</html>
